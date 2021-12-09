@@ -26,36 +26,6 @@ Miembros
 
 # UX Design and Development
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td style="width: 33%;">
-     <center><h3>Registro</h3>
-     <img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/></center>
-    </td>
-    <td style="width: 33%;">
-     <center><h3>Inicio Sesion</h3>
-     <img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/></center>
-    </td>
-    <td style="width: 33%;">
-     <center><h3>Home</h3>
-     <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/></center>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 33%;"></td>
-    <td style="width: 33%;"></td>
-    <td style="width: 33%;"></td>
-  </tr>
-
-  <tr>
-    <td style="width: 33%;"></td>
-    <td style="width: 33%;"></td>
-    <td style="width: 33%;"></td>
-  </tr>
-
-</table>
-
-| Registro   |      Inicio Sesion      |  Home |
-|----------|:-------------:|------:|
-| <img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/> |  <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/> | <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/> |
+| Registro | Inicio Sesion | Home |
+|:----------|:-------------:|:------:|
+| <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/> |  <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/> | <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/> |
