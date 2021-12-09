@@ -4,6 +4,8 @@ Prácticas Metdologías de Desarrollo Ágil 2021-22
 Proyecto: 
 **EPSIAPP**
 
+<img src="https://github.com/susolr/EPSIAPP/blob/main/EPSIAPP.png"/>
+
 Descripción: 
 
 **Estamos ideando EPSIAPP para ser una aplicación de ayuda a personas con Epilepsia**
@@ -20,4 +22,18 @@ Miembros
 
 # Product Backlog
 
+<img src="https://github.com/susolr/EPSIAPP/blob/main/ProductBacklog.png"/>
+
 # UX Design and Development
+
+### Registro
+
+<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/>
+
+### Inicio Sesion
+
+<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/>
+
+### Home
+
+<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/>
