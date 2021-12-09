@@ -4,7 +4,7 @@ Prácticas Metdologías de Desarrollo Ágil 2021-22
 Proyecto: 
 **EPSIAPP**
 
-<img src="https://github.com/susolr/EPSIAPP/blob/main/EPSIAPP.png"/>
+<img width="200px" src="https://github.com/susolr/EPSIAPP/blob/main/EPSIAPP.png"/>
 
 Descripción: 
 
@@ -22,18 +22,18 @@ Miembros
 
 # Product Backlog
 
-<img src="https://github.com/susolr/EPSIAPP/blob/main/ProductBacklog.png"/>
+<img width="200px" src="https://github.com/susolr/EPSIAPP/blob/main/ProductBacklog.png"/>
 
 # UX Design and Development
 
 ### Registro
 
-<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/>
+<img width="200px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/>
 
 ### Inicio Sesion
 
-<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/>
+<img width="200px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/>
 
 ### Home
 
-<img src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/>
+<img width="200px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/>
