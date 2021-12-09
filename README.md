@@ -26,11 +26,4 @@ Miembros
 
 # UX Design and Development
 
-| Registro 
-<img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/> 
-| Inicio Sesion 
-<img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/>
-| Home 
-<img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/>
-|
-|---------|---------|--------|
+| Registro <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Registro.png"/> | Inicio Sesion <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/LogIn.png"/> | Home  <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/> | Home  <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/> | |---------|---------|
