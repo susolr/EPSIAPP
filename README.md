@@ -33,4 +33,4 @@ Miembros
 | Home 
 <img width="400px" src="https://github.com/susolr/EPSIAPP/blob/main/Sprint2/Home.png"/>
 |
-|---------|---------|--------|-----------|
+|---------|---------|--------|
