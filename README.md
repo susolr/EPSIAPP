@@ -60,7 +60,7 @@ La aplicación permitirá también asignar tutores a determinadas personas, con 
 
 ## Documento de plan de entregas
 
-🔗Enlace directo al [**Documento de plan de entregas**](https://github.com/susolr/EPSIAPP/blob/main/documentos/documento_plan_entregas.pdf) de EPSIAPP.
+🔗Enlace directo al [**Documento de plan de entregas**](https://github.com/susolr/EPSIAPP/blob/main/documentos/plan_entregas.pdf) de EPSIAPP.
 
 ## Product Backlog
 
